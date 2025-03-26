@@ -1,0 +1,19 @@
+h1, h2, p, li {
+    font-family: "Roboto", sans-serif;
+    font-style: normal;
+}
+
+h1 {
+    margin-left: 650px;
+    color:rgb(0, 70, 45)
+}
+
+h2 {
+    margin-left: 630px;
+    color:rgb(0, 70, 45)
+}
+
+p {
+    margin-left: 10px;
+    color:rgb(0, 70, 45)
+}
